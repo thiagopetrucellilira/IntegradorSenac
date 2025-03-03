@@ -81,3 +81,41 @@ A tela de cadastro de pessoa jurídica permite que o usuário consulte informaç
 ## Tela Seleção de Cadastro Pessoa Jurídica
 ![Pessoa Jurídica - 1Tela Seleção de Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/989a880118b592ae6c1d2dc2810f9b53bcdf72e0/telas/Pessoa%20Jur%C3%ADdica%20-%201Tela%20Sele%C3%A7%C3%A3o%20de%20Cadastro%20-.png)
 
+## Tela de Cadastro Pessoa Jurídica - step 1
+![Pessoa Jurídica - 2Tela Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Pessoa%20Jur%C3%ADdica%20-%202Tela%20Cadastro.png)
+
+## Tela de Cadastro Pessoa Jurídica - step 2
+![Pessoa Jurídica - 3Tela Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Pessoa%20Jur%C3%ADdica%20-%203Tela%20Cadastro.png)
+
+## Tela Principal Pessoa Jurídica
+![Pessoa Jurídica - 4Tela Principal CIEE](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Pessoa%20Jur%C3%ADdica%20-%204Tela%20Principal%20CIEE.png)
+
+## Tela de Cadastro de Estágio
+![Pessoa Jurídica - 5Cadastrar novo Estágio](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Pessoa%20Jur%C3%ADdica%20-%205Cadastrar%20novo%20Est%C3%A1gio.png)
+
+## Tela de Cadastro de Estágio
+![Pessoa Jurídica - 6Tela Cadastro Finalizado Estágio](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Pessoa%20Jur%C3%ADdica%20-%206Tela%20Cadastro%20Finalizado%20Est%C3%A1gio.png)
+
+### 4. Fornecedor
+A tela de cadastro de Fornecedor permite que o usuário consulte informações ou cadastre produtos e serviços para venda como cursos, serviços de estágio, etc. Da mesma maneira que a tela de Pessoa Jurídica, mas nessa tela somente forncedores tem acesso.
+
+## Tela Seleção de Cadastro de Fornecedor
+![Fornecedor - 1Tela Cadastro PJ](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%201Tela%20Cadastro%20PJ.png)
+
+## Tela de Cadastro de Fornecedor - step 1
+![Fornecedor - 2Tela Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%202Tela%20Cadastro.png)
+
+## Tela de Cadastro de Fornecedor - step 2
+![Fornecedor - 3Tela Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%203Tela%20Cadastro.png)
+
+## Tela de Sucesso no Cadastro de Fornecedor
+![Fornecedor - 4Tela Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%204Tela%20Cadastro.png)
+
+## Tela Inicial de Fornecedor
+![Fornecedor - 5Tela Principal](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%205Tela%20Principal.png)
+
+## Tela de Cadastro de Curso
+![Fornecedor - 6Cadastrar novo curso](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%206Cadastrar%20novo%20curso.png)
+
+## Tela de Curso Cadastrado
+![Fornecedor - 7Tela Curso Adicionado](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Fornecedor%20-%207Tela%20Curso%20Adicionado.png)
