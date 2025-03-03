@@ -71,3 +71,13 @@ A tela de cadastro de pessoa física permite que o usuário forneça informaçõ
 
 ## Tela Solicitação de Serviços Pessoa Física (1)
 ![Tela Solicitação de Serviços Pessoa Física (1)](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/main/telas/Tela%20Solicita%C3%A7%C3%A3o%20de%20Servi%C3%A7os%20Pessoa%20F%C3%ADsica%20(1).png)
+
+### 3. Professor
+A tela de cadastro de professores...
+
+### 4. Pessoa Jurídica
+A tela de cadastro de pessoa jurídica permite que o usuário consulte informações ou cadastre produtos e serviços para venda como cursos, serviços de estágio, etc.
+
+## Tela Seleção de Cadastro Pessoa Jurídica
+![Pessoa Jurídica - 1Tela Seleção de Cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/989a880118b592ae6c1d2dc2810f9b53bcdf72e0/telas/Pessoa%20Jur%C3%ADdica%20-%201Tela%20Sele%C3%A7%C3%A3o%20de%20Cadastro%20-.png)
+
