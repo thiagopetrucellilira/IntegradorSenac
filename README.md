@@ -75,6 +75,44 @@ A tela de cadastro de pessoa física permite que o usuário forneça informaçõ
 ### 3. Professor
 A tela de cadastro de professores permite que o  professor possa além de se cadastrar, também selecionar turma, curso e inserir notas e faltas dos alunos.
 
+## Tela Seleção de Cadastro Pessoa Física
+![Professor - 1 - Tela seleção de cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%201%20-%20Tela%20sele%C3%A7%C3%A3o%20de%20cadastro.png)
+
+## Tela Inserir CPF
+![Professor - 2 - Tela para inserir CPF](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%202%20-%20Tela%20para%20inserir%20CPF.png)
+
+## Tela para Seleção de Cadastro Professor
+![Professor - 3 - Tela Seleção de cadastro](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%203%20-%20Tela%20Sele%C3%A7%C3%A3o%20de%20cadastro.png)
+
+## Tela Cadastro Professor - step 1
+![Professor - 4 - Tela Cadastro Professor](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%204%20-%20Tela%20Cadastro%20Professor.png)
+
+## Tela Cadastro Professor - step 2
+![Professor - 5 - Tela Cadastro Professor](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%205%20-%20Tela%20Cadastro%20Professor.png)
+
+## Tela Cadastro Professor Finalizado
+![Professor - 6 - Cadastro Professor Finalizado](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%206%20-%20Cadastro%20Professor%20Finalizado.png)
+
+## Tela principal Professor
+![Professor - 7 - Tela Principal Professor](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%207%20-%20Tela%20principal%20Professor.png)
+
+## Tela para seleção de Turma e Disciplina
+![Professor - 8 - Tela para Seleção de Turma e Disciplina](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%208%20-%20Tela%20para%20Sele%C3%A7%C3%A3o%20de%20Turma%20e%20Disciplina.png)
+
+## Tela para lançamento de notas
+![Professor - 9 - Tela lançamento de notas](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%209%20-%20Tela%20lan%C3%A7amento%20de%20notas.png)
+
+## Tela Notas Salvas
+![Professor - 10 - Tela notas salvas](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%2010%20-%20Tela%20notas%20salvas.png)
+
+## Tela para seleção de Turma e Disciplina
+![Professor - 11 - Tela seleção Turma e Disciplina](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%2011%20-%20Tela%20sele%C3%A7%C3%A3o%20Turma%20e%20Disciplina.png)
+
+## Tela para o Lançamento de Faltas
+![Professor - 12 - Tela lançamento de faltas](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%2012%20-%20Tela%20lan%C3%A7amento%20de%20faltas.png)
+
+## Tela Faltas Salvas
+![Professor - 13 - Tela notas salvas](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1bf61f334d512fea2af1cd8201185268d39c841f/telas/Professor%20-%2013%20-Tela%20notas%20salvas.png)
 
 ### 4. Pessoa Jurídica
 A tela de cadastro de pessoa jurídica permite que o usuário consulte informações ou cadastre produtos e serviços para venda como cursos, serviços de estágio, etc.
