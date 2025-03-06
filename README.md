@@ -1,12 +1,12 @@
-# Projeto - Aplicativo da Faculdade
+### Projeto - Aplicativo da Faculdade
 
 Este repositório contém as telas criadas no Figma para o desenvolvimento de um aplicativo voltado para gestão de uma faculdade. As telas abordam as etapas de cadastramento para diferentes tipos de usuários.
 
-## Tipos de Usuários
+### Tipos de Usuários
 
 O aplicativo foi projetado para permitir o cadastro de cinco tipos de usuários, cada um com suas respectivas etapas de registro. A seguir, estão listados os tipos de usuário e as telas associadas a cada um.
 
-## Diagrama
+### Diagrama
 ![Diagrama](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/main/telas/Diagrama.png)
 
 ### 1. Aluno
@@ -135,7 +135,7 @@ A tela de cadastro de pessoa jurídica permite que o usuário consulte informaç
 ## Tela de Cadastro de Estágio
 ![Pessoa Jurídica - 6Tela Cadastro Finalizado Estágio](https://github.com/thiagopetrucellilira/IntegradorSenac/blob/1fc997adf281f6264b4012dd254d1f66fdbccca5/telas/Pessoa%20Jur%C3%ADdica%20-%206Tela%20Cadastro%20Finalizado%20Est%C3%A1gio.png)
 
-### 4. Fornecedor
+### 5. Fornecedor
 A tela de cadastro de Fornecedor permite que o usuário consulte informações ou cadastre produtos e serviços para venda como cursos, serviços de estágio, etc. Da mesma maneira que a tela de Pessoa Jurídica, mas nessa tela somente forncedores tem acesso.
 
 ## Tela Seleção de Cadastro de Fornecedor
