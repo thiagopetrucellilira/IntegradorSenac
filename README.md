@@ -1,4 +1,4 @@
-### Projeto - Aplicativo da Faculdade
+# Projeto - Aplicativo da Faculdade
 
 Este repositório contém as telas criadas no Figma para o desenvolvimento de um aplicativo voltado para gestão de uma faculdade. As telas abordam as etapas de cadastramento para diferentes tipos de usuários.
 
